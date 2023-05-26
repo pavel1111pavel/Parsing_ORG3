@@ -18,7 +18,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from pagination import process_page
 #
-pagen_list = process_page('https://tula.elfgroup.ru/')
+pagen_list = process_page('https://ORG3.ru/')
 
 start_time = datetime.now()
 
